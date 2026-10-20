@@ -1,0 +1,2 @@
+# install on Raspberry Pi only
+pyserial
